@@ -120,4 +120,4 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
-STATIC_ROOT = "/home/kritikasony/eac-static/static"
+STATIC_ROOT = "/home/englishaccentcoach/eac/static"
